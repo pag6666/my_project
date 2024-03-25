@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "spion_for_android/1.0.0": {
+        "runtime": {
+          "spion_for_android.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "spion_for_android/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

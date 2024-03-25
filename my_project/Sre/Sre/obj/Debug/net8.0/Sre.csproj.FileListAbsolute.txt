@@ -1,0 +1,14 @@
+D:\pythone\iop\Sre\Sre\bin\Debug\net8.0\Sre.exe
+D:\pythone\iop\Sre\Sre\bin\Debug\net8.0\Sre.deps.json
+D:\pythone\iop\Sre\Sre\bin\Debug\net8.0\Sre.runtimeconfig.json
+D:\pythone\iop\Sre\Sre\bin\Debug\net8.0\Sre.dll
+D:\pythone\iop\Sre\Sre\bin\Debug\net8.0\Sre.pdb
+D:\pythone\iop\Sre\Sre\obj\Debug\net8.0\Sre.GeneratedMSBuildEditorConfig.editorconfig
+D:\pythone\iop\Sre\Sre\obj\Debug\net8.0\Sre.AssemblyInfoInputs.cache
+D:\pythone\iop\Sre\Sre\obj\Debug\net8.0\Sre.AssemblyInfo.cs
+D:\pythone\iop\Sre\Sre\obj\Debug\net8.0\Sre.csproj.CoreCompileInputs.cache
+D:\pythone\iop\Sre\Sre\obj\Debug\net8.0\Sre.dll
+D:\pythone\iop\Sre\Sre\obj\Debug\net8.0\refint\Sre.dll
+D:\pythone\iop\Sre\Sre\obj\Debug\net8.0\Sre.pdb
+D:\pythone\iop\Sre\Sre\obj\Debug\net8.0\Sre.genruntimeconfig.cache
+D:\pythone\iop\Sre\Sre\obj\Debug\net8.0\ref\Sre.dll

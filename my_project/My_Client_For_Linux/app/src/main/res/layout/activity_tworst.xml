@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/main_two"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="10dp"
+    android:background="@drawable/gradient">
+    <ImageView
+        android:id="@+id/imagestateconnect"
+        android:layout_marginTop="150dp"
+        android:layout_gravity="center"
+        android:layout_width="100dp"
+        android:layout_height="100dp">
+    </ImageView>
+    <LinearLayout
+        android:padding="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        >
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="staet connect: "
+        android:textSize="20dp"
+        >
+
+    </TextView>
+        <TextView
+            android:id="@+id/stateconnect"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"
+            >
+        </TextView>
+
+    </LinearLayout>
+    <ProgressBar
+        android:id="@+id/prog"
+        style="?android:attr/progressBarStyleHorizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="128dp"
+        android:layout_gravity="center|bottom"
+        >
+    </ProgressBar>
+    <TextView
+        android:id="@+id/EndPoint"
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="ip = "></TextView>
+</LinearLayout>

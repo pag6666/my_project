@@ -1,0 +1,14 @@
+D:\pythone\iop\spion+for_android\spion+for_android\bin\Release\net8.0\spion_for_android.exe
+D:\pythone\iop\spion+for_android\spion+for_android\bin\Release\net8.0\spion_for_android.deps.json
+D:\pythone\iop\spion+for_android\spion+for_android\bin\Release\net8.0\spion_for_android.runtimeconfig.json
+D:\pythone\iop\spion+for_android\spion+for_android\bin\Release\net8.0\spion_for_android.dll
+D:\pythone\iop\spion+for_android\spion+for_android\bin\Release\net8.0\spion_for_android.pdb
+D:\pythone\iop\spion+for_android\spion+for_android\obj\Release\net8.0\spion_for_android.GeneratedMSBuildEditorConfig.editorconfig
+D:\pythone\iop\spion+for_android\spion+for_android\obj\Release\net8.0\spion_for_android.AssemblyInfoInputs.cache
+D:\pythone\iop\spion+for_android\spion+for_android\obj\Release\net8.0\spion_for_android.AssemblyInfo.cs
+D:\pythone\iop\spion+for_android\spion+for_android\obj\Release\net8.0\spion_for_android.csproj.CoreCompileInputs.cache
+D:\pythone\iop\spion+for_android\spion+for_android\obj\Release\net8.0\spion_for_android.dll
+D:\pythone\iop\spion+for_android\spion+for_android\obj\Release\net8.0\refint\spion_for_android.dll
+D:\pythone\iop\spion+for_android\spion+for_android\obj\Release\net8.0\spion_for_android.pdb
+D:\pythone\iop\spion+for_android\spion+for_android\obj\Release\net8.0\spion_for_android.genruntimeconfig.cache
+D:\pythone\iop\spion+for_android\spion+for_android\obj\Release\net8.0\ref\spion_for_android.dll
